@@ -1,7 +1,0 @@
-const updated=()=>{
-render(){
-return(
-<>
-<h1>My name is madhava</h1>
-</>
-}

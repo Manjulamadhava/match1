@@ -63,6 +63,7 @@ class Comments extends Component {
     return (
       <div className="back">
         <form onSubmit={this.onAdding}>
+          <h1>Description</h1>
           <h1>Comments</h1>
           <p>Say something about 4.o Technologies</p>
           <input value={name} placeholder="Your Name" onChange={this.onName} />
